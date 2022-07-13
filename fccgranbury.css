@@ -1,0 +1,13 @@
+div.content {
+	margin	: 7% 10% 5% 10%
+}
+div.section {
+	border-top	: solid	;
+	padding		: 1em	;
+	clear		: both
+}
+img {
+	width	: 33%	;
+	margin	: 1em	;
+	float	: right
+}
